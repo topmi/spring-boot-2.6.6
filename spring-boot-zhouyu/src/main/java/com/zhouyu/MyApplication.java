@@ -49,4 +49,14 @@ public class MyApplication {
 //		application.run(args);
 	}
 
+//	@Bean
+//	public TomcatConnectorCustomizer tomcatConnectorCustomizer() {
+//		return new TomcatConnectorCustomizer() {
+//			@Override
+//			public void customize(Connector connector) {
+//				connector.setPort(8888);
+//			}
+//		};
+//	}
+
 }
